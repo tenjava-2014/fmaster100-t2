@@ -1,0 +1,3 @@
+name: fmaster100-t2
+main: com.tenjava.entries.fmaster100.t2.TenJava
+version: '${project.version}'
